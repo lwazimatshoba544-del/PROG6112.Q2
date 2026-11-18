@@ -1,0 +1,18 @@
+DATA LOG
+**************************************
+Customer Name: Lwazi Matshoba
+Product: Cozy Nights Monarch
+VAT: R 518.25
+COMMISSION: R 172.75
+TOTAL: R 4146.0
+**************************************
+
+DATA LOG
+**************************************
+Customer Name: Lwazi Matshoba
+Product: Cozy Nights Monarch
+VAT: R 518.25
+COMMISSION: R 172.75
+TOTAL: R 4146.0
+**************************************
+
